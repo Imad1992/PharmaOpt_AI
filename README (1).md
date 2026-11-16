@@ -2,7 +2,7 @@
 
 **A reproducible pharmaceutical demand forecasting and procurement optimisation portfolio prototype.**
 
-> Independent demonstration project inspired by a publicly advertised Pharmaceutical Procurement Analyst KTP role. Not affiliated with, commissioned by, or endorsed by iMed NI Ltd or Queen's University Belfast. All data are synthetic. No ERP connection, regulatory approval, or real procurement deployment is claimed.
+
 
 ## What it does
 
@@ -65,7 +65,7 @@ tests/test_core.py              Reproducibility and constraint checks
 
 Synthetic demonstration only. Medicine sourcing, licensing, regulatory compliance, patient safety and real purchasing require validated data, appropriate professional oversight and human approval. The model does not make clinical recommendations.
 
-## CV summary
+
 
 **PharmaOpt AI — Pharmaceutical Procurement Forecasting & Optimisation (Python, SciPy, Streamlit)**
 Built a synthetic-data decision-support prototype combining time-series demand forecasts, uncertainty intervals and mixed-integer purchasing optimisation with budget and supplier constraints; developed an interactive dashboard, chronological backtesting and automated tests.
